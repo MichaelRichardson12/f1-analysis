@@ -1,6 +1,6 @@
 # F1 Analysis
 
-![Cover](https://github.com/MichaelRichardson12/f1-analysis/blob/master/images/header.png?raw=true)]
+![Cover](https://github.com/MichaelRichardson12/f1-analysis/blob/master/images/header.png?raw=true)
 
 I have been watching Formula 1 for years and when I found the dataset from [http://ergast.com/mrd/](http://ergast.com/mrd/) I knew I had to do somwthing with it. With my background in data science and machine learning I though I would do an analysis and see what I can extract from all of this data.
 
